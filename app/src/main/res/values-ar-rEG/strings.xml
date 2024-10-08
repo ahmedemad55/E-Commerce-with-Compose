@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بلس للتسوق</string>
+    <string name="onboarding_title_1">مرحباً بك في بلس للتسوق</string>
+    <string name="onboarding_title_2">حافظ على تنظيمك</string>
+    <string name="onboarding_title_3">ابدأ الآن</string>
+    <string name="onboardingDescription">لوريم إيبسوم هو ببساطة نص شكلي يستخدم في صناعة الطباعة والتنضيد. كان لوريم إيبسوم هو النص الشكلي القياسي في الصناعة منذ القرن الخامس عشر الميلادي</string>
+    <string name="next">التالي</string>
+    <string name="skip">تخطي</string>
+
+    <string name="thankYouForChoosingUs">شكراً لاختيارك لنا!</string>
+    <string name="letsHelpYouMeetUp">دعنا نساعدك في إنجاز مهامك</string>
+
+    <string name="firstName">الاسم الأول</string>
+    <string name="secondName">اسم العائلة</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="confirmPassword">تأكيد كلمة المرور</string>
+    <string name="phoneNumber">رقم الهاتف</string>
+    <string name="signUp">اشتراك</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="alreadyHaveAnAccount">هل لديك حساب بالفعل؟</string>
+    <string name="signIn">تسجيل الدخول</string>
+
+    <string name="welcomeBack">مرحباً بعودتك!</string>
+    <string name="putYourDataHere">ضع بياناتك هنا</string>
+    <string name="forgotPassword_">هل نسيت كلمة المرور؟</string>
+    <string name="forgotPassword">نسيت كلمة المرور</string>
+    <string name="dontHaveAnAccount">ليس لديك حساب؟</string>
+
+
+    <string name="home">الرئيسية</string>
+    <string name="cart">السلة</string>
+    <string name="categories">التصنيفات</string>
+    <string name="search">بحث</string>
+    <string name="wish_list">القائمة المفضله</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="product">المنتج</string>
+    <string name="viewAll">عرض الكل</string>
+    <string name="addToCart">أضف إلى السلة</string>
+    <string name="continueShopping">مواصلة التسوق</string>
+    <string name="checkout">الدفع</string>
+    <string name="clothes">الملابس</string>
+    <string name="sports">الرياضة</string>
+
+    </resources>
